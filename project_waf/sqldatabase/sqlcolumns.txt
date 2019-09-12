@@ -1,0 +1,15 @@
+user_id
+first_name
+last_name
+user
+password
+avatar
+last_login
+failed_login
+user
+current_connections
+total_connections
+
+comment_id
+comment
+name
